@@ -5,7 +5,10 @@
   <title>はじめてのページ</title>
 </head>
 <body>
-  <h1>こんにちは</h1>
-  <p>これは本文です。</p>
+  <div style="position: relative; width: 480px; height: 374px;">
+  <img src="./ipanema.jpg" style="position: absolute; left: 0; top: 0;">
+  <img src="./neko.png" style="position: absolute; left: 0; top: 0;">
+</div>
+  <p>ぽかぽか陽気の穏やかな朝\n花畑では、蝶々がのんびり飛んでいます</p>
 </body>
 </html>
