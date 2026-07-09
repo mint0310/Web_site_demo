@@ -1,0 +1,57 @@
+.butterfly{
+  width: 100px;
+  transition: 1s;
+}
+
+.monster{
+  width:30px;
+  transition: 0.5s;
+}
+
+#front{
+  pointer-events: none;
+}
+
+img{
+  position: absolute; 
+}
+
+#bt1{
+  left: 700px;
+  top:400px;
+}
+
+#bt2{
+  left: 500px;
+  top:400px;
+}
+
+#bt3{
+  left: 300px;
+  top:400px;
+}
+
+#f1{
+  left: 500px;
+  top:200px;
+}
+
+#f2{
+  left: 460px;
+  top:200px;
+}
+
+#f3{
+  left: 480px;
+  top:200px;
+}
+
+#f4{
+  left: 520px;
+  top:200px;
+}
+
+#f5{
+  left: 540px;
+  top:200px;
+}
